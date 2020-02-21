@@ -1,14 +1,14 @@
-package me.sbahr.unblockmegenerator.generator;
+package com.sbahr.unblockgenerator.lib;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 import java.util.Set;
 
-import me.sbahr.unblockmegenerator.component.Block;
-import me.sbahr.unblockmegenerator.component.Board;
-import me.sbahr.unblockmegenerator.component.TileKind;
-import me.sbahr.unblockmegenerator.solver.Solver;
+import com.sbahr.unblockgenerator.lib.Components.Block;
+import com.sbahr.unblockgenerator.lib.Components.Board;
+import com.sbahr.unblockgenerator.lib.Components.TileKind;
+import com.sbahr.unblockgenerator.lib.Solver;
 
 public class Generator {
 

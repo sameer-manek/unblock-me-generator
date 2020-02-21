@@ -1,13 +1,13 @@
-package me.sbahr.unblockmegenerator.database;
+package com.sbahr.unblockgenerator.DB;
 
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
 
-import me.sbahr.unblockmegenerator.component.Block;
-import me.sbahr.unblockmegenerator.component.Board;
-import me.sbahr.unblockmegenerator.component.TileKind;
-import me.sbahr.unblockmegenerator.util.PuzzleUtils;
+import com.sbahr.unblockgenerator.lib.Components.Block;
+import com.sbahr.unblockgenerator.lib.Components.Board;
+import com.sbahr.unblockgenerator.lib.Components.TileKind;
+import com.sbahr.unblockgenerator.lib.PuzzleUtils;
 
 public class CoreDatabase extends BaseDatabase {
 

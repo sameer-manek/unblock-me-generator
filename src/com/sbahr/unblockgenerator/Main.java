@@ -1,15 +1,15 @@
-package me.sbahr.unblockmegenerator;
+package com.sbahr.unblockgenerator;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 import java.util.concurrent.TimeUnit;
 
-import io.isles.puzzlecratesgenerator.component.Board;
-import io.isles.puzzlecratesgenerator.database.CoreDatabase;
-import io.isles.puzzlecratesgenerator.database.DatabaseCredentials;
-import io.isles.puzzlecratesgenerator.generator.Generator;
-import io.isles.puzzlecratesgenerator.solver.Solver;
+import com.sbahr.unblockgenerator.lib.Components.Board;
+import com.sbahr.unblockgenerator.DB.CoreDatabase;
+import com.sbahr.unblockgenerator.DB.DatabaseCredentials;
+import com.sbahr.unblockgenerator.lib.Generator;
+import com.sbahr.unblockgenerator.lib.Solver;
 
 public class Main {
 

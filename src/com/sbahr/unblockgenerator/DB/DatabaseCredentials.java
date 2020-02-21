@@ -1,4 +1,4 @@
-package me.sbahr.unblockmegenerator.database;
+package com.sbahr.unblockgenerator.DB;
 
 /**
  * Immutable object containing the credentials for a database.

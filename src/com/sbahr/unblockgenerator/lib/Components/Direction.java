@@ -1,4 +1,4 @@
-package me.sbahr.unblockmegenerator.component;
+package com.sbahr.unblockgenerator.lib.Components;
 
 public enum Direction {
 	LEFT(),

@@ -1,11 +1,11 @@
-package me.sbahr.unblockmegenerator.component;
+package com.sbahr.unblockgenerator.lib.Components;
 
 import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
 
-import me.sbahr.unblockmegenerator.solver.Solver;
+import com.sbahr.unblockgenerator.lib.Solver;
 
 public class Board {
 

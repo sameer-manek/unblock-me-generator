@@ -1,4 +1,4 @@
-package me.sbahr.unblockmegenerator.database;
+package com.sbahr.unblockgenerator.DB;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

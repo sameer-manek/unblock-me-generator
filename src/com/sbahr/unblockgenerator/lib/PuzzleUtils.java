@@ -1,11 +1,11 @@
-package me.sbahr.unblockmegenerator.util;
+package com.sbahr.unblockgenerator.lib;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import me.sbahr.unblockmegenerator.component.Block;
-import me.sbahr.unblockmegenerator.component.Board;
-import me.sbahr.unblockmegenerator.component.TileKind;
+import com.sbahr.unblockgenerator.lib.Components.Block;
+import com.sbahr.unblockgenerator.lib.Components.Board;
+import com.sbahr.unblockgenerator.lib.Components.TileKind;
 
 public class PuzzleUtils {
 

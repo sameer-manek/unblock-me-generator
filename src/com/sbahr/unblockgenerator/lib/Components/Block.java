@@ -1,6 +1,6 @@
-package me.sbahr.unblockmegenerator.component;
+package com.sbahr.unblockgenerator.lib.Components;
 
-import me.sbahr.unblockmegenerator.component.TileKind;
+import com.sbahr.unblockgenerator.lib.Components.TileKind;
 
 public class Block {
 

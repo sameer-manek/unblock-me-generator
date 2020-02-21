@@ -1,4 +1,4 @@
-package me.sbahr.unblockmegenerator.solver;
+package com.sbahr.unblockgenerator.lib;
 
 import java.util.HashSet;
 import java.util.LinkedList;
@@ -6,9 +6,9 @@ import java.util.List;
 import java.util.Queue;
 import java.util.Set;
 
-import me.sbahr.unblockmegenerator.component.Block;
-import me.sbahr.unblockmegenerator.component.Board;
-import me.sbahr.unblockmegenerator.component.TileKind;
+import com.sbahr.unblockgenerator.lib.Components.Block;
+import com.sbahr.unblockgenerator.lib.Components.Board;
+import com.sbahr.unblockgenerator.lib.Components.TileKind;
 
 public class Solver {
 
